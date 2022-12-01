@@ -1,0 +1,8 @@
+Fb : 3.50
+Learning: 
+https://github.com/fahim-muntasir-niloy/mongodb-connection-instruction-to-local-machine?fbclid=IwAR3YfV88RU6SXNE2MA1NQNENJwBzM_LxkE02RKDZoAT9PT9u8PAkXuwh6-Q
+
+packages need to install
+npm node --y  
+npm i nodemon -D 
+node i mongodb dotenv
